@@ -4,6 +4,7 @@
 
 ### I am incredibly passionate about building unique and innovative products, love experimenting with new technologies and also a nature lover🌱!! 👋
 ### I am a self-taught programmer from INDIA. 🔭
+### Love to work on Green Technology🌱
 #### Here's a List of things I am currently keeping myself busy with:
 - 🌱 Helping solve local community problems by building <ins>**Android Applications**</ins> that bring impact on people lifes.
 - 🛠  I’m currently learning <ins>Android</ins>, <ins>Kotlin</ins>, <ins>Design Patterns</ins> and <ins>Jetpack Compose</ins>.
@@ -16,12 +17,8 @@
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></code> 
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code> 
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"></code>
 
 
