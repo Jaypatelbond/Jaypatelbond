@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Jamine</h1>
 <h3 align="center">Software Engineer (Android)</h3>
 
-<p align="left"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom"></p>
-
 ### I am incredibly passionate about building unique and innovative products, love experimenting with new technologies and also a nature lover🌱!! 👋
 ### I am a self-taught programmer from INDIA. 🔭🇮🇳
 ### Love to work on green technology🌱
@@ -75,3 +73,4 @@
      <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=jaypatelbond.visitor-badge"> 
   </p>
 </p>
+<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
