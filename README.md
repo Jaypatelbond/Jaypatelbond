@@ -16,7 +16,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Encrypted Preferences with Google Tink: Navigating Android Data Encryption]([https://medium.com/@jaypatelbond/everything-about-jococo-and-sonarqube-in-android-f0b366a732da](https://jaypatelbond.medium.com/encrypted-preferences-with-google-tink-navigating-android-data-encryption-c133fb512fde))
+- [Encrypted Preferences with Google Tink: Navigating Android Data Encryption](https://jaypatelbond.medium.com/encrypted-preferences-with-google-tink-navigating-android-data-encryption-c133fb512fde)
 - [Everything about Jococo and Sonarqube in Android](https://medium.com/@jaypatelbond/everything-about-jococo-and-sonarqube-in-android-f0b366a732da)
 - [Apollo GraphQL in Android App](https://medium.com/@jaypatelbond/apollo-graphql-in-android-1d6c83716b13)
 - [Optimize, shrink and obfuscate your Android app](https://medium.com/@jaypatelbond/optimize-shrink-and-obfuscate-your-android-app-b8860335f426)
