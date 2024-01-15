@@ -39,7 +39,7 @@
         align="left"
         width="396"
         src="https://github-readme-streak-stats.herokuapp.com/?user=jaypatelbond&theme=react&border=61dafb&hide_border=true"
-        alt="Some Records"
+        alt="Git Stats"
       />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
@@ -56,7 +56,7 @@
       <img
         width="335"
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypatelbond&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=Jupyter Notebook,CSS,Makefile,Dockerfile,HTML"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypatelbond&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
       />
     </a>
   </div>
