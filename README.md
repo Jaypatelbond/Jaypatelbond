@@ -38,7 +38,7 @@
       <img
         align="left"
         width="396"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=jaypatelbond&theme=react&border=61dafb&hide_border=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=jaypatelbond&theme=react&border=61dafb"
         alt="Git Stats"
       />
     </a>
