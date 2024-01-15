@@ -56,7 +56,7 @@
       <img
         width="335"
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=jaypatelbond&show_icons=true&theme=transparent"
+        src="https://github-readme-stats.vercel.app/api?username=jaypatelbond&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
       />
     </a>
   </div>
