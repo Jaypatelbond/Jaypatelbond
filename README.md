@@ -32,46 +32,6 @@
 
 ## 📈 Github Stats/Metrics
 
-<div align="center">
-  <div align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img
-        align="left"
-        width="396"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=jaypatelbond&theme=react&border=61dafb"
-        alt="Git Stats"
-      />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img
-        align="right"
-        width="396"
-        src="https://github-readme-stats.vercel.app/api?username=jaypatelbond&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true&count_private=true"
-      />
-    </a>
-  </div>
-  <br /><br /><br /><br /><br /><br /><br /><br />
-  <div align="center" title="Go to Source">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img
-        width="335"
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=jaypatelbond&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true&count_private=true"
-      />
-    </a>
-  </div>
-  <br />
-<hr>
-<p align="center">
-   <i>Let's connect and chat!</i>
-  <p align="center">
-    <a href="https://twitter.com/jaypatelbond" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/jaypatelbond/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:jaypatelbond@outlook.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://jaypatelbond.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-  </p>
-   <p align="center">  
-     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=jaypatelbond.visitor-badge"> 
-  </p>
-</p>
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
+![](https://github-profile-trophy.vercel.app/?username=jaypatelbond)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaypatelbond&show_icons=true&locale=en" alt="jaypatelbond" /></p>
