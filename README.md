@@ -39,26 +39,16 @@
 </p>
 <br />
 
-
-<!--Trophies Section-->   
-<h2 align="center">Github Trophies</h2>
-<p align="center">
-  <a href="https://github.com/Jaypatelbond/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jaypatelbond&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
-</p>
-<br />
-
 <!--Github stats Table--> 
 <h2 align="center">Github Stats</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Github Stats</strong></h3>
+      <h3 align="center"><strong>Top Contributions</strong></h3>
       <p align="center">
         <a href="https://github.com/Jaypatelbond">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaypatelbond&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Jaypatelbond&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -67,16 +57,6 @@
       <p align="center">
         <a href="https://github.com/Jaypatelbond">
           <img align="center" src="https://streak-stats.demolab.com?user=Jaypatelbond&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Top Contributions</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Jaypatelbond">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Jaypatelbond&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
