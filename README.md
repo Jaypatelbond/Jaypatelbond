@@ -18,12 +18,14 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Goodbye EncryptedSharedPreferences: A 2026 Migration Guide](https://jaypatelbond.medium.com/goodbye-encryptedsharedpreferences-a-2026-migration-guide-4b819b4a537a)
+- [Optimize, Shrink, and Obfuscate Your Android App: The Modern R8 Guide](https://jaypatelbond.medium.com/optimize-shrink-and-obfuscate-your-android-app-the-2025-edition-a33f79f2ea1d)
+- [Beyond the Basics: Kotlin Data Classes in 2025](https://jaypatelbond.medium.com/beyond-the-basics-kotlin-data-classes-in-2025-6bf916b55f05)
 - [Encrypted Preferences with Google Tink: Navigating Android Data Encryption](https://jaypatelbond.medium.com/encrypted-preferences-with-google-tink-navigating-android-data-encryption-c133fb512fde)
 - [Everything about Jococo and Sonarqube in Android](https://medium.com/@jaypatelbond/everything-about-jococo-and-sonarqube-in-android-f0b366a732da)
 - [Apollo GraphQL in Android App](https://medium.com/@jaypatelbond/apollo-graphql-in-android-1d6c83716b13)
 - [Optimize, shrink and obfuscate your Android app](https://medium.com/@jaypatelbond/optimize-shrink-and-obfuscate-your-android-app-b8860335f426)
 - [Android 11: Managing Permissions](https://medium.com/phppoets/android-11-managing-permissions-d64fa86358d0)
-- [How much does it cost to make an app for your business in 2020?](https://medium.com/phppoets/how-much-does-it-cost-to-make-an-app-for-your-business-d5a07d045ba8)
 - [Let’s build an eCommerce platform from scratch](https://medium.com/phppoets/lets-build-an-ecommerce-platform-from-scratch-81a5a8a41be7)
 - [Motion Layout in Android](https://jaypatelbond.medium.com/motion-layout-in-android-afffec18c4e6)
 <!-- BLOG-POST-LIST:END -->
