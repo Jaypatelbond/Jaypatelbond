@@ -12,8 +12,6 @@
 - ✍️ **Writing tech blog posts on my [blog](http://Jaypatelbond.medium.com/).**  
 - ⚡ **To know more, check out my [Portfolio](http://Jaypatelbond.github.io/).**
 
-  Sure, here's the corrected version of your GitHub README:
-
 ---
 
 ### Blogs posts
