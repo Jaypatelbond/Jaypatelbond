@@ -46,7 +46,7 @@
       <h3 align="center"><strong>Top Contributions</strong></h3>
       <p align="center">
         <a href="https://github.com/Jaypatelbond">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Jaypatelbond&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Jaypatelbond&limit=3&theme=dark&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -54,12 +54,18 @@
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/Jaypatelbond">
-          <img align="center" src="https://streak-stats.demolab.com?user=Jaypatelbond&theme=nightowl" alt="Streak Stats" />
+          <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Jaypatelbond&theme=dark&hide_border=false" alt="Streak Stats" />
         </a>
       </p>
     </td>
   </tr>
 </table>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaypatelbond&theme=dark&layout=compact"
+    alt="Top Languages"
+  />
+</p>
 <br />
 
 <!--Contribution Graph-->
