@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jamine</h1>
+<h1 align="center">Hi 👋, I'm Jay</h1>
 <h3 align="center">Software Engineer (Android)</h3>
 
 ### I am incredibly passionate about building unique and innovative products, love experimenting with new technologies and also a nature lover🌱👋
