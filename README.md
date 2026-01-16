@@ -16,7 +16,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye EncryptedSharedPreferences: A 2026 Migration Guide]([https://jaypatelbond.medium.com/goodbye-encryptedsharedpreferences-a-2026-migration-guide-4b819b4a537a](https://www.droidcon.com/2025/12/16/goodbye-encryptedsharedpreferences-a-2026-migration-guide/))
+- [Goodbye EncryptedSharedPreferences: A 2026 Migration Guide](https://www.droidcon.com/2025/12/16/goodbye-encryptedsharedpreferences-a-2026-migration-guide/)
 - [Optimize, Shrink, and Obfuscate Your Android App: The Modern R8 Guide](https://jaypatelbond.medium.com/optimize-shrink-and-obfuscate-your-android-app-the-2025-edition-a33f79f2ea1d)
 - [Beyond the Basics: Kotlin Data Classes in 2025](https://jaypatelbond.medium.com/beyond-the-basics-kotlin-data-classes-in-2025-6bf916b55f05)
 - [Encrypted Preferences with Google Tink: Navigating Android Data Encryption](https://jaypatelbond.medium.com/encrypted-preferences-with-google-tink-navigating-android-data-encryption-c133fb512fde)
